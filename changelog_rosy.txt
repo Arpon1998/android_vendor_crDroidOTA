@@ -1,7 +1,16 @@
 Highlights & Device Specific Changes:
-Build type: Beta
+Build type: Weekly
 Device: Redmi 5 (rosy)
-Device maintainer: sukrut4778
+Device maintainer: Arpon Sarkar
+
+===== 07 July, 2020 =====
+
+- July security patch 10.0.0_r40
+- Kernel upstream ASB-2020-07-05
+- Updated Prima WLAN driver
+- Updated blobs from Daisy Q
+- Updated QTI permissions
+- Updated rootdir from CAF
 
 ===== 07 January, 2020 =====
 
